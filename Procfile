@@ -1,0 +1,3 @@
+web: python tgB.py
+
+
